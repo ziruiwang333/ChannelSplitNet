@@ -174,7 +174,7 @@ The dataset is on Kaggle: https://www.kaggle.com/vipoooool/new-plant-diseases-da
 * `Keras 2.4.3`
 * `GPU: NVDIA GeForce GTX 1050 Ti, Cuda: V10.1.243 `
 
-*To run the codes, mask sure all **Files** listed above are in the same directory. `CS_Project.ipynb` is the main file to run the codes, other three files are imported to it. The relative path of dataset (Pickle files, OneDrive and Hash are in  [3. Dataset](#3-dataset)) is: **`DataSaved/xxx.pickle`***
+*To run the codes, mask sure all **Files** listed above are in the same directory. `CS_Project.ipynb` is the main file to run the codes, other three files are imported to it. And make sure the dataset is already downloaded from the link provided in [2. Dataset](#2-dataset).
 
 1. ***For data process***
    * Run *`0. Import Libraries`* to import the necessary libraries.
