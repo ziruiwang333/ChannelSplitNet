@@ -21,6 +21,8 @@ GitHub page for this project is: https://github.com/ziruiwang333/ChannelSplitNet
 
 The dataset is on Kaggle: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
 
+Dataset on my Kaggle site: [Plant Diseases Dataset For CS Project | Kaggle](https://www.kaggle.com/ziruiwang333/plant-diseases-dataset-for-cs-project)
+
 # 3. Project Code Contents
 
 * **0\. Import Libraries**
